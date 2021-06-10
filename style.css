@@ -1,0 +1,47 @@
+
+/*
+========================================================
+ This pattern is downloaded from www.subtlepatterns.com 
+========================================================
+*/
+ 
+
+body
+{
+	color: white !important;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	background-image: url("tlo.png");
+	font-family: 'Roboto', sans-serif;
+}
+
+.bg-red
+{
+	background-color: #a4131a;
+}
+
+.bg-green
+{
+	background-color: #1e9f42;
+}
+
+.row
+{
+	font-family: 'Roboto', sans-serif;
+	width: 105% !important;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.wpis
+{
+	font-size: 15px;
+}
+
+.float-left, .float-right
+{
+	max-width: 50%;
+}
